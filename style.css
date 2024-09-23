@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+input {
+    color: blueviolet;
+    border-radius: 20px;
+    padding: 5px;
+    border-color: brown;
+}
+button {
+    color: rebeccapurple;    
+    padding: 5px;
+    border-color: green;
+}
